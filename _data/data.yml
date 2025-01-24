@@ -131,14 +131,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, SQL, R
-        level: 85%
-
       - name: CRM Softwares - Oracle NetSuite, OMS, Salesforce
         level: 100%
 
       - name: Microsoft Office Suite
         level: 98%
+      
+      - name: Python, SQL, R
+        level: 85%
 
       - name: Google Cloud Services
         level: 75%
